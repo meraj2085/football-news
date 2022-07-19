@@ -43,5 +43,40 @@
 }
 .header-img img{
      width: 480px;
-     height: 600px;
+     height: 500px;
+}
+
+/* Blog Section */
+#blogs{
+     margin-top: 130px;
+}
+.child{
+     text-decoration: none;
+     display: flex;
+     width: 250px;
+     height: 65px;
+     align-items: center;
+     justify-content: center;
+     margin-bottom: 30px;
+     border-radius: 10px;
+     font-size: 20px;
+}
+.first-child{
+     background-color: white;
+     color: black;
+}
+.middle-child{
+     background-color: white;
+     color: black;
+}
+.last-btn{
+     background-color: #f07167;
+     color: white;
+     margin-bottom: 0;
+}
+.blogs-sidebar{
+     background-color: black;
+     width: 250px;
+     padding: 30px;
+     border-radius: 10px;
 }
